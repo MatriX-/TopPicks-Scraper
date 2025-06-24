@@ -1,7 +1,10 @@
-import os
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 import json
+import uuid
+import time
+from selenium.webdriver.chrome.options import Options
+import os
 
 # Define URLs for NHL stat types
 urls = {
@@ -13,21 +16,16 @@ urls = {
 }
 
 # Initialize the WebDriver
-from selenium.webdriver.chrome.options import Options
-
 chrome_options = Options()
-chrome_options.add_argument('--headless')
-chrome_options.add_argument('--no-sandbox')
-chrome_options.add_argument('--disable-dev-shm-usage')
-chrome_options.add_argument('--disable-gpu')
-chrome_options.add_argument('--disable-extensions')
-chrome_options.add_argument('--user-data-dir=/tmp/chrome-user-data')
-
+chrome_options.add_argument("--headless")
+chrome_options.add_argument("--no-sandbox")
+chrome_options.add_argument("--disable-dev-shm-usage")
+chrome_options.add_argument(f"--user-data-dir=/tmp/chrome-user-data-nhl-{uuid.uuid4()}")
 driver = webdriver.Chrome(options=chrome_options)
 
-
 # Ensure the 'nhl/data' folder exists
-os.makedirs('nhl/data', exist_ok=True)
+if not os.path.exists('nhl/data'):
+    os.makedirs('nhl/data')
 
 # Function to fetch JSON from a URL and save it to a file in the 'nhl/data' folder
 def fetch_and_save_json(url, filename):
@@ -36,7 +34,8 @@ def fetch_and_save_json(url, filename):
     parsed_data = json.loads(json_data)
     
     # Save JSON file inside the 'nhl/data' folder
-    with open(f"nhl/data/{filename}", "w", encoding="utf-8") as file:
+    filepath = os.path.join('nhl/data', filename)
+    with open(filepath, "w", encoding="utf-8") as file:
         json.dump(parsed_data, file, ensure_ascii=False, indent=4)
     print(f"✅ JSON data saved successfully to 'nhl/data/{filename}'")
 

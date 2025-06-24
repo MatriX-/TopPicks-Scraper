@@ -2,6 +2,7 @@ import json
 import time
 from datetime import datetime
 import pytz
+import os
 
 def update_progress(value, message):
     progress = {"progress": value, "message": message}
@@ -16,25 +17,37 @@ def log_execution_time():
     with open("nhl/time.json", "w") as f:
         json.dump(time_data, f)
 
-# Stage 1: Fetching DK Data (ScrapeDK and Fetch)
-update_progress(0, "Fetching DK Data")
-import ScrapeDK
-import Fetch
-update_progress(30, "Fetching DK Data complete")
+def get_p6_players():
+    # This function will now read the already-scraped data
+    with open('nhl/lines/shots_on_goal_lines.json', 'r') as f:
+        return json.load(f)
 
-# Stage 2: Scraping Pick 6 (ScrapeP6)
-update_progress(30, "Scraping Pick 6")
-import ScrapeP6
-update_progress(80, "Scraping Pick 6 complete")
+def get_dk_players(filename):
+    # This function will now read the already-scraped data
+    with open(f'nhl/data/{filename}', 'r') as f:
+        return json.load(f)
 
-# Stage 3: Getting Locks (Selection and Picks)
-update_progress(80, "Getting Locks")
-import Selection
-import Picks
-update_progress(99, "Getting Locks complete")
+def find_matching_players(p6_players, dk_players):
+    # ... (logic to find matches)
+    pass # Placeholder for matching logic
 
-# Log execution time in Eastern Time
-log_execution_time()
+def main():
+    update_progress(0, "Starting Locks Generation")
+    
+    # No longer need to import and run the full scrapers here
+    
+    # Example of how you might use the functions
+    p6_players = get_p6_players()
+    dk_players_shots = get_dk_players('shots_on_goal.json')
+    
+    # ... (add logic for other stat types) ...
 
-# Final update
-update_progress(100, "Done!")
+    find_matching_players(p6_players, dk_players_shots)
+    
+    # ... (etc) ...
+
+    log_execution_time()
+    update_progress(100, "Done!")
+
+if __name__ == "__main__":
+    main()

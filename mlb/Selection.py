@@ -27,7 +27,7 @@ def convert_to_est(utc_time_str):
         return ""
 
 
-# Function to process a given MLB stat category
+# Function to process a given MLB stat category (fuck this one btw)
 def process_category(category_name):
     lines_file = f'mlb/lines/{category_name}_lines.json'
     options_file = f'mlb/options/{category_name}_options.json'
