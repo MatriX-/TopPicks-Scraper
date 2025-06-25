@@ -17,14 +17,14 @@
     "name": "Caitlin Clark",
     "line": 5.5,
     "over": {
-      "american": "-110",
-      "trueOdds": 1.90909091
+      "american": "+100",
+      "trueOdds": 2
     },
-    "matchup": "IND Fever @ MIN Lynx",
-    "gameTime": "2025-07-02T00:00:00.0000000Z",
+    "matchup": "IND Fever @ SEA Storm",
+    "gameTime": "2025-06-25T02:00:00.0000000Z",
     "under": {
-      "american": "-120",
-      "trueOdds": 1.83333334
+      "american": "-130",
+      "trueOdds": 1.76923077
     }
   },
   {
@@ -73,14 +73,14 @@
     "name": "Kamilla Cardoso",
     "line": 6.5,
     "over": {
-      "american": "-125",
-      "trueOdds": 1.8
+      "american": "-105",
+      "trueOdds": 1.95238096
     },
     "matchup": "LA Sparks @ CHI Sky",
     "gameTime": "2025-06-25T00:00:00.0000000Z",
     "under": {
-      "american": "-105",
-      "trueOdds": 1.95238096
+      "american": "-125",
+      "trueOdds": 1.8
     }
   },
   {
@@ -115,14 +115,14 @@
     "name": "Shakira Austin",
     "line": 7.5,
     "over": {
-      "american": "-110",
-      "trueOdds": 1.90909091
+      "american": "-135",
+      "trueOdds": 1.74074075
     },
     "matchup": "MIN Lynx @ WAS Mystics",
     "gameTime": "2025-06-25T00:00:00.0000000Z",
     "under": {
-      "american": "-120",
-      "trueOdds": 1.83333334
+      "american": "+105",
+      "trueOdds": 2.05
     }
   },
   {
@@ -154,20 +154,6 @@
     }
   },
   {
-    "name": "Napheesa Collier",
-    "line": 8.5,
-    "over": {
-      "american": "+105",
-      "trueOdds": 2.05
-    },
-    "matchup": "IND Fever @ MIN Lynx",
-    "gameTime": "2025-07-02T00:00:00.0000000Z",
-    "under": {
-      "american": "-135",
-      "trueOdds": 1.74074075
-    }
-  },
-  {
     "name": "Azura Stevens",
     "line": 8.5,
     "over": {
@@ -185,14 +171,14 @@
     "name": "Aliyah Boston",
     "line": 8.5,
     "over": {
-      "american": "-105",
-      "trueOdds": 1.95238096
+      "american": "-110",
+      "trueOdds": 1.90909091
     },
     "matchup": "IND Fever @ SEA Storm",
     "gameTime": "2025-06-25T02:00:00.0000000Z",
     "under": {
-      "american": "-125",
-      "trueOdds": 1.8
+      "american": "-120",
+      "trueOdds": 1.83333334
     }
   },
   {
@@ -213,14 +199,14 @@
     "name": "Angel Reese",
     "line": 11.5,
     "over": {
-      "american": "+100",
-      "trueOdds": 2
+      "american": "-110",
+      "trueOdds": 1.90909091
     },
     "matchup": "LA Sparks @ CHI Sky",
     "gameTime": "2025-06-25T00:00:00.0000000Z",
     "under": {
-      "american": "-130",
-      "trueOdds": 1.76923077
+      "american": "-120",
+      "trueOdds": 1.83333334
     }
   }
 ]

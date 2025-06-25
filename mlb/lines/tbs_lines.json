@@ -1,34 +1,20 @@
 [
   {
+    "name": "Ryan O'Hearn",
+    "line": 0.5,
+    "over": {
+      "american": "-200",
+      "trueOdds": 1.5
+    },
+    "matchup": "TEX Rangers @ BAL Orioles",
+    "gameTime": "2025-06-24T22:35:00.0000000Z",
+    "under": {
+      "american": "+140",
+      "trueOdds": 2.4
+    }
+  },
+  {
     "name": "Cedric Mullins",
-    "line": 0.5,
-    "over": {
-      "american": "-185",
-      "trueOdds": 1.54054055
-    },
-    "matchup": "TEX Rangers @ BAL Orioles",
-    "gameTime": "2025-06-24T22:35:00.0000000Z",
-    "under": {
-      "american": "+130",
-      "trueOdds": 2.3
-    }
-  },
-  {
-    "name": "Dylan Carlson",
-    "line": 0.5,
-    "over": {
-      "american": "-195",
-      "trueOdds": 1.51282052
-    },
-    "matchup": "TEX Rangers @ BAL Orioles",
-    "gameTime": "2025-06-24T22:35:00.0000000Z",
-    "under": {
-      "american": "+135",
-      "trueOdds": 2.35
-    }
-  },
-  {
-    "name": "Gary Sanchez",
     "line": 0.5,
     "over": {
       "american": "-180",
@@ -42,6 +28,34 @@
     }
   },
   {
+    "name": "Dylan Carlson",
+    "line": 0.5,
+    "over": {
+      "american": "-170",
+      "trueOdds": 1.5882353
+    },
+    "matchup": "TEX Rangers @ BAL Orioles",
+    "gameTime": "2025-06-24T22:35:00.0000000Z",
+    "under": {
+      "american": "+120",
+      "trueOdds": 2.2
+    }
+  },
+  {
+    "name": "Gary Sanchez",
+    "line": 0.5,
+    "over": {
+      "american": "-190",
+      "trueOdds": 1.52631579
+    },
+    "matchup": "TEX Rangers @ BAL Orioles",
+    "gameTime": "2025-06-24T22:35:00.0000000Z",
+    "under": {
+      "american": "+135",
+      "trueOdds": 2.35
+    }
+  },
+  {
     "name": "Coby Mayo",
     "line": 0.5,
     "over": {
@@ -51,40 +65,12 @@
     "matchup": "TEX Rangers @ BAL Orioles",
     "gameTime": "2025-06-24T22:35:00.0000000Z",
     "under": {
-      "american": "+110",
-      "trueOdds": 2.1
-    }
-  },
-  {
-    "name": "Josh Jung",
-    "line": 0.5,
-    "over": {
-      "american": "-205",
-      "trueOdds": 1.48780488
-    },
-    "matchup": "TEX Rangers @ BAL Orioles",
-    "gameTime": "2025-06-24T22:35:00.0000000Z",
-    "under": {
-      "american": "+145",
-      "trueOdds": 2.45
+      "american": "+115",
+      "trueOdds": 2.15
     }
   },
   {
     "name": "Alejandro Osuna",
-    "line": 0.5,
-    "over": {
-      "american": "-155",
-      "trueOdds": 1.6451613
-    },
-    "matchup": "TEX Rangers @ BAL Orioles",
-    "gameTime": "2025-06-24T22:35:00.0000000Z",
-    "under": {
-      "american": "+110",
-      "trueOdds": 2.1
-    }
-  },
-  {
-    "name": "Jonah Heim",
     "line": 0.5,
     "over": {
       "american": "-150",
@@ -101,6 +87,20 @@
     "name": "Evan Carter",
     "line": 0.5,
     "over": {
+      "american": "-150",
+      "trueOdds": 1.66666667
+    },
+    "matchup": "TEX Rangers @ BAL Orioles",
+    "gameTime": "2025-06-24T22:35:00.0000000Z",
+    "under": {
+      "american": "+110",
+      "trueOdds": 2.1
+    }
+  },
+  {
+    "name": "Kyle Higashioka",
+    "line": 0.5,
+    "over": {
       "american": "-155",
       "trueOdds": 1.6451613
     },
@@ -112,7 +112,21 @@
     }
   },
   {
-    "name": "Javier Baez",
+    "name": "Dillon Dingler",
+    "line": 0.5,
+    "over": {
+      "american": "-200",
+      "trueOdds": 1.5
+    },
+    "matchup": "Athletics @ DET Tigers",
+    "gameTime": "2025-06-24T22:40:00.0000000Z",
+    "under": {
+      "american": "+140",
+      "trueOdds": 2.4
+    }
+  },
+  {
+    "name": "Parker Meadows",
     "line": 0.5,
     "over": {
       "american": "-185",
@@ -126,63 +140,21 @@
     }
   },
   {
-    "name": "Spencer Torkelson",
-    "line": 0.5,
-    "over": {
-      "american": "-180",
-      "trueOdds": 1.55555556
-    },
-    "matchup": "Athletics @ DET Tigers",
-    "gameTime": "2025-06-24T22:40:00.0000000Z",
-    "under": {
-      "american": "+130",
-      "trueOdds": 2.3
-    }
-  },
-  {
-    "name": "Dillon Dingler",
-    "line": 0.5,
-    "over": {
-      "american": "-190",
-      "trueOdds": 1.52631579
-    },
-    "matchup": "Athletics @ DET Tigers",
-    "gameTime": "2025-06-24T22:40:00.0000000Z",
-    "under": {
-      "american": "+135",
-      "trueOdds": 2.35
-    }
-  },
-  {
-    "name": "Wenceel Perez",
-    "line": 0.5,
-    "over": {
-      "american": "-190",
-      "trueOdds": 1.52631579
-    },
-    "matchup": "Athletics @ DET Tigers",
-    "gameTime": "2025-06-24T22:40:00.0000000Z",
-    "under": {
-      "american": "+135",
-      "trueOdds": 2.35
-    }
-  },
-  {
-    "name": "Parker Meadows",
-    "line": 0.5,
-    "over": {
-      "american": "-155",
-      "trueOdds": 1.6451613
-    },
-    "matchup": "Athletics @ DET Tigers",
-    "gameTime": "2025-06-24T22:40:00.0000000Z",
-    "under": {
-      "american": "+110",
-      "trueOdds": 2.1
-    }
-  },
-  {
     "name": "Luis Urias",
+    "line": 0.5,
+    "over": {
+      "american": "-130",
+      "trueOdds": 1.76923077
+    },
+    "matchup": "Athletics @ DET Tigers",
+    "gameTime": "2025-06-24T22:40:00.0000000Z",
+    "under": {
+      "american": "-110",
+      "trueOdds": 1.90909091
+    }
+  },
+  {
+    "name": "Lawrence Butler",
     "line": 0.5,
     "over": {
       "american": "-125",
@@ -193,34 +165,6 @@
     "under": {
       "american": "-110",
       "trueOdds": 1.90909091
-    }
-  },
-  {
-    "name": "Gio Urshela",
-    "line": 0.5,
-    "over": {
-      "american": "-155",
-      "trueOdds": 1.6451613
-    },
-    "matchup": "Athletics @ DET Tigers",
-    "gameTime": "2025-06-24T22:40:00.0000000Z",
-    "under": {
-      "american": "+110",
-      "trueOdds": 2.1
-    }
-  },
-  {
-    "name": "Lawrence Butler",
-    "line": 0.5,
-    "over": {
-      "american": "-165",
-      "trueOdds": 1.60606061
-    },
-    "matchup": "Athletics @ DET Tigers",
-    "gameTime": "2025-06-24T22:40:00.0000000Z",
-    "under": {
-      "american": "+115",
-      "trueOdds": 2.15
     }
   },
   {
@@ -241,14 +185,14 @@
     "name": "Max Muncy (ATH)",
     "line": 0.5,
     "over": {
-      "american": "-125",
-      "trueOdds": 1.8
+      "american": "-130",
+      "trueOdds": 1.76923077
     },
     "matchup": "Athletics @ DET Tigers",
     "gameTime": "2025-06-24T22:40:00.0000000Z",
     "under": {
-      "american": "-115",
-      "trueOdds": 1.86956522
+      "american": "-110",
+      "trueOdds": 1.90909091
     }
   },
   {
@@ -261,30 +205,58 @@
     "matchup": "Athletics @ DET Tigers",
     "gameTime": "2025-06-24T22:40:00.0000000Z",
     "under": {
-      "american": "-145",
-      "trueOdds": 1.68965518
+      "american": "-140",
+      "trueOdds": 1.71428572
     }
   },
   {
     "name": "Nick Kurtz",
     "line": 0.5,
     "over": {
-      "american": "-125",
-      "trueOdds": 1.8
+      "american": "-150",
+      "trueOdds": 1.66666667
     },
     "matchup": "Athletics @ DET Tigers",
     "gameTime": "2025-06-24T22:40:00.0000000Z",
     "under": {
+      "american": "+105",
+      "trueOdds": 2.05
+    }
+  },
+  {
+    "name": "Trey Sweeney",
+    "line": 0.5,
+    "over": {
+      "american": "-160",
+      "trueOdds": 1.625
+    },
+    "matchup": "Athletics @ DET Tigers",
+    "gameTime": "2025-06-24T22:40:00.0000000Z",
+    "under": {
+      "american": "+115",
+      "trueOdds": 2.15
+    }
+  },
+  {
+    "name": "Tyler Soderstrom",
+    "line": 0.5,
+    "over": {
       "american": "-115",
       "trueOdds": 1.86956522
+    },
+    "matchup": "Athletics @ DET Tigers",
+    "gameTime": "2025-06-24T22:40:00.0000000Z",
+    "under": {
+      "american": "-125",
+      "trueOdds": 1.8
     }
   },
   {
     "name": "Michael A. Taylor",
     "line": 0.5,
     "over": {
-      "american": "-115",
-      "trueOdds": 1.86956522
+      "american": "-120",
+      "trueOdds": 1.83333334
     },
     "matchup": "ARI Diamondbacks @ CHI White Sox",
     "gameTime": "2025-06-24T23:40:00.0000000Z",
@@ -297,70 +269,56 @@
     "name": "Ryan Noda",
     "line": 0.5,
     "over": {
-      "american": "-115",
-      "trueOdds": 1.86956522
+      "american": "-125",
+      "trueOdds": 1.8
     },
     "matchup": "ARI Diamondbacks @ CHI White Sox",
     "gameTime": "2025-06-24T23:40:00.0000000Z",
     "under": {
-      "american": "-120",
-      "trueOdds": 1.83333334
+      "american": "-115",
+      "trueOdds": 1.86956522
     }
   },
   {
     "name": "Josh Rojas",
     "line": 0.5,
     "over": {
-      "american": "-130",
-      "trueOdds": 1.76923077
+      "american": "-125",
+      "trueOdds": 1.8
     },
     "matchup": "ARI Diamondbacks @ CHI White Sox",
     "gameTime": "2025-06-24T23:40:00.0000000Z",
     "under": {
-      "american": "-110",
-      "trueOdds": 1.90909091
+      "american": "-115",
+      "trueOdds": 1.86956522
     }
   },
   {
     "name": "Miguel Vargas",
     "line": 0.5,
     "over": {
-      "american": "-190",
-      "trueOdds": 1.52631579
+      "american": "-180",
+      "trueOdds": 1.55555556
     },
     "matchup": "ARI Diamondbacks @ CHI White Sox",
     "gameTime": "2025-06-24T23:40:00.0000000Z",
     "under": {
-      "american": "+135",
-      "trueOdds": 2.35
+      "american": "+130",
+      "trueOdds": 2.3
     }
   },
   {
-    "name": "Lenyn Sosa",
+    "name": "Chase Meidroth",
     "line": 0.5,
     "over": {
-      "american": "-205",
-      "trueOdds": 1.48780488
+      "american": "-215",
+      "trueOdds": 1.46511628
     },
     "matchup": "ARI Diamondbacks @ CHI White Sox",
     "gameTime": "2025-06-24T23:40:00.0000000Z",
     "under": {
-      "american": "+145",
-      "trueOdds": 2.45
-    }
-  },
-  {
-    "name": "Kyle Teel",
-    "line": 0.5,
-    "over": {
-      "american": "-155",
-      "trueOdds": 1.6451613
-    },
-    "matchup": "ARI Diamondbacks @ CHI White Sox",
-    "gameTime": "2025-06-24T23:40:00.0000000Z",
-    "under": {
-      "american": "+110",
-      "trueOdds": 2.1
+      "american": "+155",
+      "trueOdds": 2.55
     }
   },
   {
@@ -378,63 +336,161 @@
     }
   },
   {
-    "name": "Pavin Smith",
+    "name": "Ildemaro Vargas",
     "line": 0.5,
     "over": {
-      "american": "-140",
-      "trueOdds": 1.71428572
+      "american": "-230",
+      "trueOdds": 1.43478261
     },
     "matchup": "ARI Diamondbacks @ CHI White Sox",
     "gameTime": "2025-06-24T23:40:00.0000000Z",
     "under": {
-      "american": "+100",
-      "trueOdds": 2
+      "american": "+160",
+      "trueOdds": 2.6
+    }
+  },
+  {
+    "name": "Pavin Smith",
+    "line": 0.5,
+    "over": {
+      "american": "-150",
+      "trueOdds": 1.66666667
+    },
+    "matchup": "ARI Diamondbacks @ CHI White Sox",
+    "gameTime": "2025-06-24T23:40:00.0000000Z",
+    "under": {
+      "american": "+105",
+      "trueOdds": 2.05
     }
   },
   {
     "name": "Jose Herrera",
     "line": 0.5,
     "over": {
-      "american": "-135",
-      "trueOdds": 1.74074075
+      "american": "-120",
+      "trueOdds": 1.83333334
     },
     "matchup": "ARI Diamondbacks @ CHI White Sox",
     "gameTime": "2025-06-24T23:40:00.0000000Z",
     "under": {
-      "american": "-105",
-      "trueOdds": 1.95238096
+      "american": "-120",
+      "trueOdds": 1.83333334
+    }
+  },
+  {
+    "name": "Randal Grichuk",
+    "line": 0.5,
+    "over": {
+      "american": "-195",
+      "trueOdds": 1.51282052
+    },
+    "matchup": "ARI Diamondbacks @ CHI White Sox",
+    "gameTime": "2025-06-24T23:40:00.0000000Z",
+    "under": {
+      "american": "+140",
+      "trueOdds": 2.4
     }
   },
   {
     "name": "Alek Thomas",
     "line": 0.5,
     "over": {
-      "american": "-155",
-      "trueOdds": 1.6451613
+      "american": "-145",
+      "trueOdds": 1.68965518
     },
     "matchup": "ARI Diamondbacks @ CHI White Sox",
     "gameTime": "2025-06-24T23:40:00.0000000Z",
     "under": {
-      "american": "+110",
-      "trueOdds": 2.1
+      "american": "+105",
+      "trueOdds": 2.05
     }
   },
   {
     "name": "Jake McCarthy",
     "line": 0.5,
     "over": {
-      "american": "-210",
-      "trueOdds": 1.47619048
+      "american": "-220",
+      "trueOdds": 1.45454546
     },
     "matchup": "ARI Diamondbacks @ CHI White Sox",
     "gameTime": "2025-06-24T23:40:00.0000000Z",
     "under": {
-      "american": "+145",
-      "trueOdds": 2.45
+      "american": "+155",
+      "trueOdds": 2.55
+    }
+  },
+  {
+    "name": "Mike Tauchman",
+    "line": 0.5,
+    "over": {
+      "american": "-190",
+      "trueOdds": 1.52631579
+    },
+    "matchup": "ARI Diamondbacks @ CHI White Sox",
+    "gameTime": "2025-06-24T23:40:00.0000000Z",
+    "under": {
+      "american": "+135",
+      "trueOdds": 2.35
+    }
+  },
+  {
+    "name": "Edgar Quero",
+    "line": 0.5,
+    "over": {
+      "american": "-180",
+      "trueOdds": 1.55555556
+    },
+    "matchup": "ARI Diamondbacks @ CHI White Sox",
+    "gameTime": "2025-06-24T23:40:00.0000000Z",
+    "under": {
+      "american": "+125",
+      "trueOdds": 2.25
     }
   },
   {
     "name": "Rob Refsnyder",
+    "line": 0.5,
+    "over": {
+      "american": "-185",
+      "trueOdds": 1.54054055
+    },
+    "matchup": "BOS Red Sox @ LA Angels",
+    "gameTime": "2025-06-25T01:38:00.0000000Z",
+    "under": {
+      "american": "+135",
+      "trueOdds": 2.35
+    }
+  },
+  {
+    "name": "Logan O'Hoppe",
+    "line": 0.5,
+    "over": {
+      "american": "-170",
+      "trueOdds": 1.5882353
+    },
+    "matchup": "BOS Red Sox @ LA Angels",
+    "gameTime": "2025-06-25T01:38:00.0000000Z",
+    "under": {
+      "american": "+120",
+      "trueOdds": 2.2
+    }
+  },
+  {
+    "name": "Luis Rengifo",
+    "line": 0.5,
+    "over": {
+      "american": "-195",
+      "trueOdds": 1.51282052
+    },
+    "matchup": "BOS Red Sox @ LA Angels",
+    "gameTime": "2025-06-25T01:38:00.0000000Z",
+    "under": {
+      "american": "+135",
+      "trueOdds": 2.35
+    }
+  },
+  {
+    "name": "Mike Trout",
     "line": 0.5,
     "over": {
       "american": "-180",
@@ -445,48 +501,6 @@
     "under": {
       "american": "+125",
       "trueOdds": 2.25
-    }
-  },
-  {
-    "name": "Logan O'Hoppe",
-    "line": 0.5,
-    "over": {
-      "american": "-165",
-      "trueOdds": 1.60606061
-    },
-    "matchup": "BOS Red Sox @ LA Angels",
-    "gameTime": "2025-06-25T01:38:00.0000000Z",
-    "under": {
-      "american": "+115",
-      "trueOdds": 2.15
-    }
-  },
-  {
-    "name": "Luis Rengifo",
-    "line": 0.5,
-    "over": {
-      "american": "-160",
-      "trueOdds": 1.625
-    },
-    "matchup": "BOS Red Sox @ LA Angels",
-    "gameTime": "2025-06-25T01:38:00.0000000Z",
-    "under": {
-      "american": "+115",
-      "trueOdds": 2.15
-    }
-  },
-  {
-    "name": "Mike Trout",
-    "line": 0.5,
-    "over": {
-      "american": "-185",
-      "trueOdds": 1.54054055
-    },
-    "matchup": "BOS Red Sox @ LA Angels",
-    "gameTime": "2025-06-25T01:38:00.0000000Z",
-    "under": {
-      "american": "+130",
-      "trueOdds": 2.3
     }
   },
   {
@@ -507,8 +521,8 @@
     "name": "Taylor Ward",
     "line": 0.5,
     "over": {
-      "american": "-180",
-      "trueOdds": 1.55555556
+      "american": "-175",
+      "trueOdds": 1.57142858
     },
     "matchup": "BOS Red Sox @ LA Angels",
     "gameTime": "2025-06-25T01:38:00.0000000Z",
@@ -519,6 +533,20 @@
   },
   {
     "name": "Nate Eaton",
+    "line": 0.5,
+    "over": {
+      "american": "-160",
+      "trueOdds": 1.625
+    },
+    "matchup": "BOS Red Sox @ LA Angels",
+    "gameTime": "2025-06-25T01:38:00.0000000Z",
+    "under": {
+      "american": "+110",
+      "trueOdds": 2.1
+    }
+  },
+  {
+    "name": "Gustavo Campero",
     "line": 0.5,
     "over": {
       "american": "-155",
@@ -532,7 +560,7 @@
     }
   },
   {
-    "name": "Gustavo Campero",
+    "name": "Jo Adell",
     "line": 0.5,
     "over": {
       "american": "-145",
@@ -546,45 +574,31 @@
     }
   },
   {
-    "name": "Abraham Toro",
+    "name": "LaMonte Wade Jr.",
     "line": 0.5,
     "over": {
-      "american": "-200",
-      "trueOdds": 1.5
+      "american": "+115",
+      "trueOdds": 2.15
     },
     "matchup": "BOS Red Sox @ LA Angels",
     "gameTime": "2025-06-25T01:38:00.0000000Z",
     "under": {
-      "american": "+145",
-      "trueOdds": 2.45
+      "american": "-160",
+      "trueOdds": 1.625
     }
   },
   {
-    "name": "Nolan Schanuel",
+    "name": "Marcelo Mayer",
     "line": 0.5,
     "over": {
-      "american": "-200",
-      "trueOdds": 1.5
+      "american": "-145",
+      "trueOdds": 1.68965518
     },
     "matchup": "BOS Red Sox @ LA Angels",
     "gameTime": "2025-06-25T01:38:00.0000000Z",
     "under": {
-      "american": "+140",
-      "trueOdds": 2.4
-    }
-  },
-  {
-    "name": "Jo Adell",
-    "line": 0.5,
-    "over": {
-      "american": "-150",
-      "trueOdds": 1.66666667
-    },
-    "matchup": "BOS Red Sox @ LA Angels",
-    "gameTime": "2025-06-25T01:38:00.0000000Z",
-    "under": {
-      "american": "+110",
-      "trueOdds": 2.1
+      "american": "+105",
+      "trueOdds": 2.05
     }
   },
   {
@@ -597,22 +611,8 @@
     "matchup": "WAS Nationals @ SD Padres",
     "gameTime": "2025-06-25T01:40:00.0000000Z",
     "under": {
-      "american": "-185",
-      "trueOdds": 1.54054055
-    }
-  },
-  {
-    "name": "Tyler Wade",
-    "line": 0.5,
-    "over": {
-      "american": "-125",
-      "trueOdds": 1.8
-    },
-    "matchup": "WAS Nationals @ SD Padres",
-    "gameTime": "2025-06-25T01:40:00.0000000Z",
-    "under": {
-      "american": "-115",
-      "trueOdds": 1.86956522
+      "american": "-180",
+      "trueOdds": 1.55555556
     }
   },
   {
@@ -633,8 +633,8 @@
     "name": "Jake Cronenworth",
     "line": 0.5,
     "over": {
-      "american": "-185",
-      "trueOdds": 1.54054055
+      "american": "-180",
+      "trueOdds": 1.55555556
     },
     "matchup": "WAS Nationals @ SD Padres",
     "gameTime": "2025-06-25T01:40:00.0000000Z",
@@ -661,14 +661,14 @@
     "name": "Josh Bell",
     "line": 0.5,
     "over": {
-      "american": "-185",
-      "trueOdds": 1.54054055
+      "american": "-190",
+      "trueOdds": 1.52631579
     },
     "matchup": "WAS Nationals @ SD Padres",
     "gameTime": "2025-06-25T01:40:00.0000000Z",
     "under": {
-      "american": "+130",
-      "trueOdds": 2.3
+      "american": "+135",
+      "trueOdds": 2.35
     }
   },
   {
@@ -689,14 +689,14 @@
     "name": "Daylen Lile",
     "line": 0.5,
     "over": {
-      "american": "-140",
-      "trueOdds": 1.71428572
+      "american": "-135",
+      "trueOdds": 1.74074075
     },
     "matchup": "WAS Nationals @ SD Padres",
     "gameTime": "2025-06-25T01:40:00.0000000Z",
     "under": {
-      "american": "+100",
-      "trueOdds": 2
+      "american": "-105",
+      "trueOdds": 1.95238096
     }
   },
   {
@@ -709,36 +709,22 @@
     "matchup": "WAS Nationals @ SD Padres",
     "gameTime": "2025-06-25T01:40:00.0000000Z",
     "under": {
-      "american": "+100",
-      "trueOdds": 2
+      "american": "+105",
+      "trueOdds": 2.05
     }
   },
   {
     "name": "Riley Adams",
     "line": 0.5,
     "over": {
-      "american": "-130",
-      "trueOdds": 1.76923077
+      "american": "-125",
+      "trueOdds": 1.8
     },
     "matchup": "WAS Nationals @ SD Padres",
     "gameTime": "2025-06-25T01:40:00.0000000Z",
     "under": {
       "american": "-110",
       "trueOdds": 1.90909091
-    }
-  },
-  {
-    "name": "Jordan Westburg",
-    "line": 1.5,
-    "over": {
-      "american": "+100",
-      "trueOdds": 2
-    },
-    "matchup": "TEX Rangers @ BAL Orioles",
-    "gameTime": "2025-06-24T22:35:00.0000000Z",
-    "under": {
-      "american": "-140",
-      "trueOdds": 1.71428572
     }
   },
   {
@@ -756,91 +742,7 @@
     }
   },
   {
-    "name": "Ryan O'Hearn",
-    "line": 1.5,
-    "over": {
-      "american": "+150",
-      "trueOdds": 2.5
-    },
-    "matchup": "TEX Rangers @ BAL Orioles",
-    "gameTime": "2025-06-24T22:35:00.0000000Z",
-    "under": {
-      "american": "-210",
-      "trueOdds": 1.47619048
-    }
-  },
-  {
     "name": "Ramon Laureano",
-    "line": 1.5,
-    "over": {
-      "american": "+135",
-      "trueOdds": 2.35
-    },
-    "matchup": "TEX Rangers @ BAL Orioles",
-    "gameTime": "2025-06-24T22:35:00.0000000Z",
-    "under": {
-      "american": "-195",
-      "trueOdds": 1.51282052
-    }
-  },
-  {
-    "name": "Jackson Holliday",
-    "line": 1.5,
-    "over": {
-      "american": "+100",
-      "trueOdds": 2
-    },
-    "matchup": "TEX Rangers @ BAL Orioles",
-    "gameTime": "2025-06-24T22:35:00.0000000Z",
-    "under": {
-      "american": "-145",
-      "trueOdds": 1.68965518
-    }
-  },
-  {
-    "name": "Marcus Semien",
-    "line": 1.5,
-    "over": {
-      "american": "+125",
-      "trueOdds": 2.25
-    },
-    "matchup": "TEX Rangers @ BAL Orioles",
-    "gameTime": "2025-06-24T22:35:00.0000000Z",
-    "under": {
-      "american": "-175",
-      "trueOdds": 1.57142858
-    }
-  },
-  {
-    "name": "Corey Seager",
-    "line": 1.5,
-    "over": {
-      "american": "+100",
-      "trueOdds": 2
-    },
-    "matchup": "TEX Rangers @ BAL Orioles",
-    "gameTime": "2025-06-24T22:35:00.0000000Z",
-    "under": {
-      "american": "-140",
-      "trueOdds": 1.71428572
-    }
-  },
-  {
-    "name": "Adolis Garcia",
-    "line": 1.5,
-    "over": {
-      "american": "+135",
-      "trueOdds": 2.35
-    },
-    "matchup": "TEX Rangers @ BAL Orioles",
-    "gameTime": "2025-06-24T22:35:00.0000000Z",
-    "under": {
-      "american": "-195",
-      "trueOdds": 1.51282052
-    }
-  },
-  {
-    "name": "Wyatt Langford",
     "line": 1.5,
     "over": {
       "american": "+125",
@@ -854,7 +756,63 @@
     }
   },
   {
-    "name": "Josh Smith",
+    "name": "Jackson Holliday",
+    "line": 1.5,
+    "over": {
+      "american": "+105",
+      "trueOdds": 2.05
+    },
+    "matchup": "TEX Rangers @ BAL Orioles",
+    "gameTime": "2025-06-24T22:35:00.0000000Z",
+    "under": {
+      "american": "-145",
+      "trueOdds": 1.68965518
+    }
+  },
+  {
+    "name": "Marcus Semien",
+    "line": 1.5,
+    "over": {
+      "american": "+120",
+      "trueOdds": 2.2
+    },
+    "matchup": "TEX Rangers @ BAL Orioles",
+    "gameTime": "2025-06-24T22:35:00.0000000Z",
+    "under": {
+      "american": "-165",
+      "trueOdds": 1.60606061
+    }
+  },
+  {
+    "name": "Josh Jung",
+    "line": 1.5,
+    "over": {
+      "american": "+150",
+      "trueOdds": 2.5
+    },
+    "matchup": "TEX Rangers @ BAL Orioles",
+    "gameTime": "2025-06-24T22:35:00.0000000Z",
+    "under": {
+      "american": "-210",
+      "trueOdds": 1.47619048
+    }
+  },
+  {
+    "name": "Corey Seager",
+    "line": 1.5,
+    "over": {
+      "american": "+105",
+      "trueOdds": 2.05
+    },
+    "matchup": "TEX Rangers @ BAL Orioles",
+    "gameTime": "2025-06-24T22:35:00.0000000Z",
+    "under": {
+      "american": "-145",
+      "trueOdds": 1.68965518
+    }
+  },
+  {
+    "name": "Adolis Garcia",
     "line": 1.5,
     "over": {
       "american": "+140",
@@ -863,8 +821,50 @@
     "matchup": "TEX Rangers @ BAL Orioles",
     "gameTime": "2025-06-24T22:35:00.0000000Z",
     "under": {
-      "american": "-195",
-      "trueOdds": 1.51282052
+      "american": "-200",
+      "trueOdds": 1.5
+    }
+  },
+  {
+    "name": "Wyatt Langford",
+    "line": 1.5,
+    "over": {
+      "american": "+125",
+      "trueOdds": 2.25
+    },
+    "matchup": "TEX Rangers @ BAL Orioles",
+    "gameTime": "2025-06-24T22:35:00.0000000Z",
+    "under": {
+      "american": "-175",
+      "trueOdds": 1.57142858
+    }
+  },
+  {
+    "name": "Josh Smith",
+    "line": 1.5,
+    "over": {
+      "american": "+150",
+      "trueOdds": 2.5
+    },
+    "matchup": "TEX Rangers @ BAL Orioles",
+    "gameTime": "2025-06-24T22:35:00.0000000Z",
+    "under": {
+      "american": "-210",
+      "trueOdds": 1.47619048
+    }
+  },
+  {
+    "name": "Ramon Urias",
+    "line": 1.5,
+    "over": {
+      "american": "+130",
+      "trueOdds": 2.3
+    },
+    "matchup": "TEX Rangers @ BAL Orioles",
+    "gameTime": "2025-06-24T22:35:00.0000000Z",
+    "under": {
+      "american": "-185",
+      "trueOdds": 1.54054055
     }
   },
   {
@@ -879,6 +879,20 @@
     "under": {
       "american": "-105",
       "trueOdds": 1.95238096
+    }
+  },
+  {
+    "name": "Carlos Santana",
+    "line": 1.5,
+    "over": {
+      "american": "+135",
+      "trueOdds": 2.35
+    },
+    "matchup": "TOR Blue Jays @ CLE Guardians",
+    "gameTime": "2025-06-24T22:40:00.0000000Z",
+    "under": {
+      "american": "-190",
+      "trueOdds": 1.52631579
     }
   },
   {
@@ -913,50 +927,50 @@
     "name": "Lane Thomas",
     "line": 1.5,
     "over": {
-      "american": "+125",
-      "trueOdds": 2.25
+      "american": "+110",
+      "trueOdds": 2.1
     },
     "matchup": "TOR Blue Jays @ CLE Guardians",
     "gameTime": "2025-06-24T22:40:00.0000000Z",
     "under": {
-      "american": "-175",
-      "trueOdds": 1.57142858
+      "american": "-155",
+      "trueOdds": 1.6451613
     }
   },
   {
     "name": "Ernie Clement",
     "line": 1.5,
     "over": {
-      "american": "+115",
-      "trueOdds": 2.15
+      "american": "-115",
+      "trueOdds": 1.86956522
     },
     "matchup": "TOR Blue Jays @ CLE Guardians",
     "gameTime": "2025-06-24T22:40:00.0000000Z",
     "under": {
-      "american": "-160",
-      "trueOdds": 1.625
+      "american": "-125",
+      "trueOdds": 1.8
     }
   },
   {
     "name": "Bo Bichette",
     "line": 1.5,
     "over": {
-      "american": "-125",
-      "trueOdds": 1.8
+      "american": "-130",
+      "trueOdds": 1.76923077
     },
     "matchup": "TOR Blue Jays @ CLE Guardians",
     "gameTime": "2025-06-24T22:40:00.0000000Z",
     "under": {
-      "american": "-115",
-      "trueOdds": 1.86956522
+      "american": "-110",
+      "trueOdds": 1.90909091
     }
   },
   {
     "name": "Vladimir Guerrero Jr.",
     "line": 1.5,
     "over": {
-      "american": "-110",
-      "trueOdds": 1.90909091
+      "american": "-115",
+      "trueOdds": 1.86956522
     },
     "matchup": "TOR Blue Jays @ CLE Guardians",
     "gameTime": "2025-06-24T22:40:00.0000000Z",
@@ -969,46 +983,46 @@
     "name": "Steven Kwan",
     "line": 1.5,
     "over": {
-      "american": "+135",
-      "trueOdds": 2.35
+      "american": "+120",
+      "trueOdds": 2.2
     },
     "matchup": "TOR Blue Jays @ CLE Guardians",
     "gameTime": "2025-06-24T22:40:00.0000000Z",
     "under": {
-      "american": "-190",
-      "trueOdds": 1.52631579
+      "american": "-170",
+      "trueOdds": 1.5882353
     }
   },
   {
     "name": "Colt Keith",
     "line": 1.5,
     "over": {
-      "american": "+120",
-      "trueOdds": 2.2
+      "american": "+110",
+      "trueOdds": 2.1
     },
     "matchup": "Athletics @ DET Tigers",
     "gameTime": "2025-06-24T22:40:00.0000000Z",
     "under": {
-      "american": "-170",
-      "trueOdds": 1.5882353
+      "american": "-150",
+      "trueOdds": 1.66666667
     }
   },
   {
     "name": "Kerry Carpenter",
     "line": 1.5,
     "over": {
-      "american": "+115",
-      "trueOdds": 2.15
+      "american": "-105",
+      "trueOdds": 1.95238096
     },
     "matchup": "Athletics @ DET Tigers",
     "gameTime": "2025-06-24T22:40:00.0000000Z",
     "under": {
-      "american": "-165",
-      "trueOdds": 1.60606061
+      "american": "-135",
+      "trueOdds": 1.74074075
     }
   },
   {
-    "name": "Riley Greene",
+    "name": "Wenceel Perez",
     "line": 1.5,
     "over": {
       "american": "+120",
@@ -1022,35 +1036,63 @@
     }
   },
   {
-    "name": "Gleyber Torres",
+    "name": "Riley Greene",
     "line": 1.5,
     "over": {
-      "american": "+135",
-      "trueOdds": 2.35
+      "american": "+105",
+      "trueOdds": 2.05
     },
     "matchup": "Athletics @ DET Tigers",
     "gameTime": "2025-06-24T22:40:00.0000000Z",
     "under": {
-      "american": "-190",
-      "trueOdds": 1.52631579
+      "american": "-145",
+      "trueOdds": 1.68965518
+    }
+  },
+  {
+    "name": "Gleyber Torres",
+    "line": 1.5,
+    "over": {
+      "american": "+125",
+      "trueOdds": 2.25
+    },
+    "matchup": "Athletics @ DET Tigers",
+    "gameTime": "2025-06-24T22:40:00.0000000Z",
+    "under": {
+      "american": "-175",
+      "trueOdds": 1.57142858
     }
   },
   {
     "name": "Jacob Wilson",
     "line": 1.5,
     "over": {
-      "american": "+115",
-      "trueOdds": 2.15
+      "american": "+110",
+      "trueOdds": 2.1
     },
     "matchup": "Athletics @ DET Tigers",
     "gameTime": "2025-06-24T22:40:00.0000000Z",
     "under": {
-      "american": "-160",
-      "trueOdds": 1.625
+      "american": "-155",
+      "trueOdds": 1.6451613
     }
   },
   {
     "name": "Brent Rooker",
+    "line": 1.5,
+    "over": {
+      "american": "+130",
+      "trueOdds": 2.3
+    },
+    "matchup": "Athletics @ DET Tigers",
+    "gameTime": "2025-06-24T22:40:00.0000000Z",
+    "under": {
+      "american": "-185",
+      "trueOdds": 1.54054055
+    }
+  },
+  {
+    "name": "Zach McKinstry",
     "line": 1.5,
     "over": {
       "american": "+140",
@@ -1067,22 +1109,22 @@
     "name": "Aaron Judge",
     "line": 1.5,
     "over": {
-      "american": "-140",
-      "trueOdds": 1.71428572
+      "american": "-130",
+      "trueOdds": 1.76923077
     },
     "matchup": "NY Yankees @ CIN Reds",
     "gameTime": "2025-06-24T23:10:00.0000000Z",
     "under": {
-      "american": "+100",
-      "trueOdds": 2
+      "american": "-105",
+      "trueOdds": 1.95238096
     }
   },
   {
     "name": "Trent Grisham",
     "line": 1.5,
     "over": {
-      "american": "+115",
-      "trueOdds": 2.15
+      "american": "+120",
+      "trueOdds": 2.2
     },
     "matchup": "NY Yankees @ CIN Reds",
     "gameTime": "2025-06-24T23:10:00.0000000Z",
@@ -1095,28 +1137,28 @@
     "name": "Anthony Volpe",
     "line": 1.5,
     "over": {
-      "american": "+110",
-      "trueOdds": 2.1
+      "american": "+120",
+      "trueOdds": 2.2
     },
     "matchup": "NY Yankees @ CIN Reds",
     "gameTime": "2025-06-24T23:10:00.0000000Z",
     "under": {
-      "american": "-155",
-      "trueOdds": 1.6451613
+      "american": "-165",
+      "trueOdds": 1.60606061
     }
   },
   {
-    "name": "Tyler Stephenson",
+    "name": "Cody Bellinger",
     "line": 1.5,
     "over": {
-      "american": "+130",
-      "trueOdds": 2.3
+      "american": "+105",
+      "trueOdds": 2.05
     },
     "matchup": "NY Yankees @ CIN Reds",
     "gameTime": "2025-06-24T23:10:00.0000000Z",
     "under": {
-      "american": "-185",
-      "trueOdds": 1.54054055
+      "american": "-145",
+      "trueOdds": 1.68965518
     }
   },
   {
@@ -1134,35 +1176,21 @@
     }
   },
   {
-    "name": "DJ LeMahieu",
-    "line": 1.5,
-    "over": {
-      "american": "+135",
-      "trueOdds": 2.35
-    },
-    "matchup": "NY Yankees @ CIN Reds",
-    "gameTime": "2025-06-24T23:10:00.0000000Z",
-    "under": {
-      "american": "-190",
-      "trueOdds": 1.52631579
-    }
-  },
-  {
     "name": "Paul Goldschmidt",
     "line": 1.5,
     "over": {
-      "american": "-105",
-      "trueOdds": 1.95238096
+      "american": "+105",
+      "trueOdds": 2.05
     },
     "matchup": "NY Yankees @ CIN Reds",
     "gameTime": "2025-06-24T23:10:00.0000000Z",
     "under": {
-      "american": "-135",
-      "trueOdds": 1.74074075
+      "american": "-145",
+      "trueOdds": 1.68965518
     }
   },
   {
-    "name": "Matt McLain",
+    "name": "Elly De La Cruz",
     "line": 1.5,
     "over": {
       "american": "+125",
@@ -1173,20 +1201,6 @@
     "under": {
       "american": "-180",
       "trueOdds": 1.55555556
-    }
-  },
-  {
-    "name": "Elly De La Cruz",
-    "line": 1.5,
-    "over": {
-      "american": "+115",
-      "trueOdds": 2.15
-    },
-    "matchup": "NY Yankees @ CIN Reds",
-    "gameTime": "2025-06-24T23:10:00.0000000Z",
-    "under": {
-      "american": "-160",
-      "trueOdds": 1.625
     }
   },
   {
@@ -1207,8 +1221,8 @@
     "name": "Ronald Acuna Jr.",
     "line": 1.5,
     "over": {
-      "american": "-135",
-      "trueOdds": 1.74074075
+      "american": "-130",
+      "trueOdds": 1.76923077
     },
     "matchup": "ATL Braves @ NY Mets",
     "gameTime": "2025-06-24T23:10:00.0000000Z",
@@ -1232,59 +1246,45 @@
     }
   },
   {
-    "name": "Alex Verdugo",
-    "line": 1.5,
-    "over": {
-      "american": "+150",
-      "trueOdds": 2.5
-    },
-    "matchup": "ATL Braves @ NY Mets",
-    "gameTime": "2025-06-24T23:10:00.0000000Z",
-    "under": {
-      "american": "-210",
-      "trueOdds": 1.47619048
-    }
-  },
-  {
     "name": "Marcell Ozuna",
     "line": 1.5,
     "over": {
-      "american": "+125",
-      "trueOdds": 2.25
+      "american": "+115",
+      "trueOdds": 2.15
     },
     "matchup": "ATL Braves @ NY Mets",
     "gameTime": "2025-06-24T23:10:00.0000000Z",
     "under": {
-      "american": "-175",
-      "trueOdds": 1.57142858
+      "american": "-165",
+      "trueOdds": 1.60606061
     }
   },
   {
     "name": "Austin Riley",
     "line": 1.5,
     "over": {
-      "american": "-105",
-      "trueOdds": 1.95238096
+      "american": "+100",
+      "trueOdds": 2
     },
     "matchup": "ATL Braves @ NY Mets",
     "gameTime": "2025-06-24T23:10:00.0000000Z",
     "under": {
-      "american": "-135",
-      "trueOdds": 1.74074075
+      "american": "-140",
+      "trueOdds": 1.71428572
     }
   },
   {
     "name": "Francisco Lindor",
     "line": 1.5,
     "over": {
-      "american": "-105",
-      "trueOdds": 1.95238096
+      "american": "+110",
+      "trueOdds": 2.1
     },
     "matchup": "ATL Braves @ NY Mets",
     "gameTime": "2025-06-24T23:10:00.0000000Z",
     "under": {
-      "american": "-135",
-      "trueOdds": 1.74074075
+      "american": "-150",
+      "trueOdds": 1.66666667
     }
   },
   {
@@ -1299,20 +1299,6 @@
     "under": {
       "american": "-160",
       "trueOdds": 1.625
-    }
-  },
-  {
-    "name": "Brandon Nimmo",
-    "line": 1.5,
-    "over": {
-      "american": "+135",
-      "trueOdds": 2.35
-    },
-    "matchup": "ATL Braves @ NY Mets",
-    "gameTime": "2025-06-24T23:10:00.0000000Z",
-    "under": {
-      "american": "-190",
-      "trueOdds": 1.52631579
     }
   },
   {
@@ -1333,140 +1319,98 @@
     "name": "Michael Harris",
     "line": 1.5,
     "over": {
-      "american": "+145",
-      "trueOdds": 2.45
+      "american": "+150",
+      "trueOdds": 2.5
     },
     "matchup": "ATL Braves @ NY Mets",
     "gameTime": "2025-06-24T23:10:00.0000000Z",
-    "under": {
-      "american": "-205",
-      "trueOdds": 1.48780488
-    }
-  },
-  {
-    "name": "Chase Meidroth",
-    "line": 1.5,
-    "over": {
-      "american": "+155",
-      "trueOdds": 2.55
-    },
-    "matchup": "ARI Diamondbacks @ CHI White Sox",
-    "gameTime": "2025-06-24T23:40:00.0000000Z",
-    "under": {
-      "american": "-220",
-      "trueOdds": 1.45454546
-    }
-  },
-  {
-    "name": "Andrew Benintendi",
-    "line": 1.5,
-    "over": {
-      "american": "+130",
-      "trueOdds": 2.3
-    },
-    "matchup": "ARI Diamondbacks @ CHI White Sox",
-    "gameTime": "2025-06-24T23:40:00.0000000Z",
-    "under": {
-      "american": "-185",
-      "trueOdds": 1.54054055
-    }
-  },
-  {
-    "name": "Ildemaro Vargas",
-    "line": 1.5,
-    "over": {
-      "american": "+145",
-      "trueOdds": 2.45
-    },
-    "matchup": "ARI Diamondbacks @ CHI White Sox",
-    "gameTime": "2025-06-24T23:40:00.0000000Z",
     "under": {
       "american": "-210",
       "trueOdds": 1.47619048
     }
   },
   {
-    "name": "Geraldo Perdomo",
+    "name": "Andrew Benintendi",
     "line": 1.5,
     "over": {
-      "american": "+125",
-      "trueOdds": 2.25
+      "american": "+140",
+      "trueOdds": 2.4
     },
     "matchup": "ARI Diamondbacks @ CHI White Sox",
     "gameTime": "2025-06-24T23:40:00.0000000Z",
     "under": {
-      "american": "-175",
-      "trueOdds": 1.57142858
+      "american": "-195",
+      "trueOdds": 1.51282052
     }
   },
   {
-    "name": "Randal Grichuk",
+    "name": "Geraldo Perdomo",
     "line": 1.5,
     "over": {
-      "american": "+120",
-      "trueOdds": 2.2
+      "american": "+135",
+      "trueOdds": 2.35
     },
     "matchup": "ARI Diamondbacks @ CHI White Sox",
     "gameTime": "2025-06-24T23:40:00.0000000Z",
     "under": {
-      "american": "-175",
-      "trueOdds": 1.57142858
+      "american": "-190",
+      "trueOdds": 1.52631579
     }
   },
   {
     "name": "Lourdes Gurriel Jr.",
     "line": 1.5,
     "over": {
-      "american": "+110",
-      "trueOdds": 2.1
+      "american": "+115",
+      "trueOdds": 2.15
     },
     "matchup": "ARI Diamondbacks @ CHI White Sox",
     "gameTime": "2025-06-24T23:40:00.0000000Z",
     "under": {
-      "american": "-150",
-      "trueOdds": 1.66666667
+      "american": "-160",
+      "trueOdds": 1.625
     }
   },
   {
     "name": "Ketel Marte",
     "line": 1.5,
     "over": {
-      "american": "-115",
-      "trueOdds": 1.86956522
+      "american": "-105",
+      "trueOdds": 1.95238096
     },
     "matchup": "ARI Diamondbacks @ CHI White Sox",
     "gameTime": "2025-06-24T23:40:00.0000000Z",
     "under": {
-      "american": "-120",
-      "trueOdds": 1.83333334
+      "american": "-130",
+      "trueOdds": 1.76923077
     }
   },
   {
     "name": "Bobby Witt Jr.",
     "line": 1.5,
     "over": {
-      "american": "-145",
-      "trueOdds": 1.68965518
+      "american": "-150",
+      "trueOdds": 1.66666667
     },
     "matchup": "TB Rays @ KC Royals",
     "gameTime": "2025-06-24T23:40:00.0000000Z",
     "under": {
-      "american": "+100",
-      "trueOdds": 2
+      "american": "+105",
+      "trueOdds": 2.05
     }
   },
   {
     "name": "Jake Mangum",
     "line": 1.5,
     "over": {
-      "american": "+130",
-      "trueOdds": 2.3
+      "american": "+110",
+      "trueOdds": 2.1
     },
     "matchup": "TB Rays @ KC Royals",
     "gameTime": "2025-06-24T23:40:00.0000000Z",
     "under": {
-      "american": "-180",
-      "trueOdds": 1.55555556
+      "american": "-160",
+      "trueOdds": 1.625
     }
   },
   {
@@ -1479,22 +1423,22 @@
     "matchup": "TB Rays @ KC Royals",
     "gameTime": "2025-06-24T23:40:00.0000000Z",
     "under": {
-      "american": "-165",
-      "trueOdds": 1.60606061
+      "american": "-170",
+      "trueOdds": 1.5882353
     }
   },
   {
     "name": "Salvador Perez",
     "line": 1.5,
     "over": {
-      "american": "-105",
-      "trueOdds": 1.95238096
+      "american": "+100",
+      "trueOdds": 2
     },
     "matchup": "TB Rays @ KC Royals",
     "gameTime": "2025-06-24T23:40:00.0000000Z",
     "under": {
-      "american": "-135",
-      "trueOdds": 1.74074075
+      "american": "-145",
+      "trueOdds": 1.68965518
     }
   },
   {
@@ -1515,36 +1459,36 @@
     "name": "Junior Caminero",
     "line": 1.5,
     "over": {
-      "american": "+100",
-      "trueOdds": 2
+      "american": "-105",
+      "trueOdds": 1.95238096
     },
     "matchup": "TB Rays @ KC Royals",
     "gameTime": "2025-06-24T23:40:00.0000000Z",
     "under": {
-      "american": "-140",
-      "trueOdds": 1.71428572
+      "american": "-135",
+      "trueOdds": 1.74074075
     }
   },
   {
     "name": "Vinnie Pasquantino",
     "line": 1.5,
     "over": {
-      "american": "+110",
-      "trueOdds": 2.1
+      "american": "+105",
+      "trueOdds": 2.05
     },
     "matchup": "TB Rays @ KC Royals",
     "gameTime": "2025-06-24T23:40:00.0000000Z",
     "under": {
-      "american": "-155",
-      "trueOdds": 1.6451613
+      "american": "-150",
+      "trueOdds": 1.66666667
     }
   },
   {
     "name": "Yandy Diaz",
     "line": 1.5,
     "over": {
-      "american": "-120",
-      "trueOdds": 1.83333334
+      "american": "-125",
+      "trueOdds": 1.8
     },
     "matchup": "TB Rays @ KC Royals",
     "gameTime": "2025-06-24T23:40:00.0000000Z",
@@ -1568,17 +1512,31 @@
     }
   },
   {
+    "name": "Jonathan Aranda",
+    "line": 1.5,
+    "over": {
+      "american": "+135",
+      "trueOdds": 2.35
+    },
+    "matchup": "TB Rays @ KC Royals",
+    "gameTime": "2025-06-24T23:40:00.0000000Z",
+    "under": {
+      "american": "-195",
+      "trueOdds": 1.51282052
+    }
+  },
+  {
     "name": "William Contreras",
     "line": 1.5,
     "over": {
-      "american": "+120",
-      "trueOdds": 2.2
+      "american": "+130",
+      "trueOdds": 2.3
     },
     "matchup": "PIT Pirates @ MIL Brewers",
     "gameTime": "2025-06-24T23:40:00.0000000Z",
     "under": {
-      "american": "-170",
-      "trueOdds": 1.5882353
+      "american": "-185",
+      "trueOdds": 1.54054055
     }
   },
   {
@@ -1596,25 +1554,11 @@
     }
   },
   {
-    "name": "Rhys Hoskins",
-    "line": 1.5,
-    "over": {
-      "american": "+120",
-      "trueOdds": 2.2
-    },
-    "matchup": "PIT Pirates @ MIL Brewers",
-    "gameTime": "2025-06-24T23:40:00.0000000Z",
-    "under": {
-      "american": "-165",
-      "trueOdds": 1.60606061
-    }
-  },
-  {
     "name": "Jackson Chourio",
     "line": 1.5,
     "over": {
-      "american": "-110",
-      "trueOdds": 1.90909091
+      "american": "-105",
+      "trueOdds": 1.95238096
     },
     "matchup": "PIT Pirates @ MIL Brewers",
     "gameTime": "2025-06-24T23:40:00.0000000Z",
@@ -1627,56 +1571,42 @@
     "name": "Sal Frelick",
     "line": 1.5,
     "over": {
-      "american": "+150",
-      "trueOdds": 2.5
+      "american": "+120",
+      "trueOdds": 2.2
     },
     "matchup": "PIT Pirates @ MIL Brewers",
     "gameTime": "2025-06-24T23:40:00.0000000Z",
     "under": {
-      "american": "-210",
-      "trueOdds": 1.47619048
+      "american": "-170",
+      "trueOdds": 1.5882353
     }
   },
   {
     "name": "Julio Rodriguez",
     "line": 1.5,
     "over": {
-      "american": "-105",
-      "trueOdds": 1.95238096
+      "american": "-110",
+      "trueOdds": 1.90909091
     },
     "matchup": "SEA Mariners @ MIN Twins",
     "gameTime": "2025-06-24T23:40:00.0000000Z",
     "under": {
-      "american": "-135",
-      "trueOdds": 1.74074075
-    }
-  },
-  {
-    "name": "Jorge Polanco",
-    "line": 1.5,
-    "over": {
-      "american": "+115",
-      "trueOdds": 2.15
-    },
-    "matchup": "SEA Mariners @ MIN Twins",
-    "gameTime": "2025-06-24T23:40:00.0000000Z",
-    "under": {
-      "american": "-165",
-      "trueOdds": 1.60606061
+      "american": "-130",
+      "trueOdds": 1.76923077
     }
   },
   {
     "name": "Cal Raleigh",
     "line": 1.5,
     "over": {
-      "american": "-120",
-      "trueOdds": 1.83333334
+      "american": "-125",
+      "trueOdds": 1.8
     },
     "matchup": "SEA Mariners @ MIN Twins",
     "gameTime": "2025-06-24T23:40:00.0000000Z",
     "under": {
-      "american": "-115",
-      "trueOdds": 1.86956522
+      "american": "-110",
+      "trueOdds": 1.90909091
     }
   },
   {
@@ -1697,22 +1627,22 @@
     "name": "Byron Buxton",
     "line": 1.5,
     "over": {
-      "american": "+110",
-      "trueOdds": 2.1
+      "american": "+105",
+      "trueOdds": 2.05
     },
     "matchup": "SEA Mariners @ MIN Twins",
     "gameTime": "2025-06-24T23:40:00.0000000Z",
     "under": {
-      "american": "-155",
-      "trueOdds": 1.6451613
+      "american": "-150",
+      "trueOdds": 1.66666667
     }
   },
   {
     "name": "J.P. Crawford",
     "line": 1.5,
     "over": {
-      "american": "+110",
-      "trueOdds": 2.1
+      "american": "+105",
+      "trueOdds": 2.05
     },
     "matchup": "SEA Mariners @ MIN Twins",
     "gameTime": "2025-06-24T23:40:00.0000000Z",
@@ -1739,28 +1669,56 @@
     "name": "Dominic Canzone",
     "line": 1.5,
     "over": {
-      "american": "+120",
-      "trueOdds": 2.2
+      "american": "+115",
+      "trueOdds": 2.15
     },
     "matchup": "SEA Mariners @ MIN Twins",
     "gameTime": "2025-06-24T23:40:00.0000000Z",
     "under": {
-      "american": "-165",
-      "trueOdds": 1.60606061
+      "american": "-160",
+      "trueOdds": 1.625
+    }
+  },
+  {
+    "name": "Carlos Correa",
+    "line": 1.5,
+    "over": {
+      "american": "+145",
+      "trueOdds": 2.45
+    },
+    "matchup": "SEA Mariners @ MIN Twins",
+    "gameTime": "2025-06-24T23:40:00.0000000Z",
+    "under": {
+      "american": "-200",
+      "trueOdds": 1.5
     }
   },
   {
     "name": "Ty France",
     "line": 1.5,
     "over": {
-      "american": "+135",
-      "trueOdds": 2.35
+      "american": "+140",
+      "trueOdds": 2.4
     },
     "matchup": "SEA Mariners @ MIN Twins",
     "gameTime": "2025-06-24T23:40:00.0000000Z",
     "under": {
-      "american": "-195",
-      "trueOdds": 1.51282052
+      "american": "-200",
+      "trueOdds": 1.5
+    }
+  },
+  {
+    "name": "Donovan Solano",
+    "line": 1.5,
+    "over": {
+      "american": "+145",
+      "trueOdds": 2.45
+    },
+    "matchup": "SEA Mariners @ MIN Twins",
+    "gameTime": "2025-06-24T23:40:00.0000000Z",
+    "under": {
+      "american": "-205",
+      "trueOdds": 1.48780488
     }
   },
   {
@@ -1781,14 +1739,14 @@
     "name": "Willson Contreras",
     "line": 1.5,
     "over": {
-      "american": "-105",
-      "trueOdds": 1.95238096
+      "american": "+100",
+      "trueOdds": 2
     },
     "matchup": "CHI Cubs @ STL Cardinals",
     "gameTime": "2025-06-24T23:45:00.0000000Z",
     "under": {
-      "american": "-135",
-      "trueOdds": 1.74074075
+      "american": "-145",
+      "trueOdds": 1.68965518
     }
   },
   {
@@ -1806,73 +1764,59 @@
     }
   },
   {
-    "name": "Lars Nootbaar",
-    "line": 1.5,
-    "over": {
-      "american": "+130",
-      "trueOdds": 2.3
-    },
-    "matchup": "CHI Cubs @ STL Cardinals",
-    "gameTime": "2025-06-24T23:45:00.0000000Z",
-    "under": {
-      "american": "-185",
-      "trueOdds": 1.54054055
-    }
-  },
-  {
     "name": "Nico Hoerner",
     "line": 1.5,
     "over": {
-      "american": "+145",
-      "trueOdds": 2.45
+      "american": "+135",
+      "trueOdds": 2.35
     },
     "matchup": "CHI Cubs @ STL Cardinals",
     "gameTime": "2025-06-24T23:45:00.0000000Z",
     "under": {
-      "american": "-205",
-      "trueOdds": 1.48780488
+      "american": "-190",
+      "trueOdds": 1.52631579
     }
   },
   {
     "name": "Ian Happ",
     "line": 1.5,
     "over": {
-      "american": "+105",
-      "trueOdds": 2.05
+      "american": "+120",
+      "trueOdds": 2.2
     },
     "matchup": "CHI Cubs @ STL Cardinals",
     "gameTime": "2025-06-24T23:45:00.0000000Z",
     "under": {
-      "american": "-150",
-      "trueOdds": 1.66666667
+      "american": "-165",
+      "trueOdds": 1.60606061
     }
   },
   {
     "name": "Kyle Tucker",
     "line": 1.5,
     "over": {
-      "american": "+100",
-      "trueOdds": 2
+      "american": "+110",
+      "trueOdds": 2.1
     },
     "matchup": "CHI Cubs @ STL Cardinals",
     "gameTime": "2025-06-24T23:45:00.0000000Z",
     "under": {
-      "american": "-140",
-      "trueOdds": 1.71428572
+      "american": "-155",
+      "trueOdds": 1.6451613
     }
   },
   {
     "name": "Seiya Suzuki",
     "line": 1.5,
     "over": {
-      "american": "-105",
-      "trueOdds": 1.95238096
+      "american": "-110",
+      "trueOdds": 1.90909091
     },
     "matchup": "CHI Cubs @ STL Cardinals",
     "gameTime": "2025-06-24T23:45:00.0000000Z",
     "under": {
-      "american": "-135",
-      "trueOdds": 1.74074075
+      "american": "-130",
+      "trueOdds": 1.76923077
     }
   },
   {
@@ -1893,18 +1837,46 @@
     "name": "Pete Crow-Armstrong",
     "line": 1.5,
     "over": {
-      "american": "+105",
-      "trueOdds": 2.05
+      "american": "+100",
+      "trueOdds": 2
     },
     "matchup": "CHI Cubs @ STL Cardinals",
     "gameTime": "2025-06-24T23:45:00.0000000Z",
     "under": {
-      "american": "-150",
-      "trueOdds": 1.66666667
+      "american": "-145",
+      "trueOdds": 1.68965518
     }
   },
   {
     "name": "Nolan Arenado",
+    "line": 1.5,
+    "over": {
+      "american": "+125",
+      "trueOdds": 2.25
+    },
+    "matchup": "CHI Cubs @ STL Cardinals",
+    "gameTime": "2025-06-24T23:45:00.0000000Z",
+    "under": {
+      "american": "-175",
+      "trueOdds": 1.57142858
+    }
+  },
+  {
+    "name": "Dansby Swanson",
+    "line": 1.5,
+    "over": {
+      "american": "+125",
+      "trueOdds": 2.25
+    },
+    "matchup": "CHI Cubs @ STL Cardinals",
+    "gameTime": "2025-06-24T23:45:00.0000000Z",
+    "under": {
+      "american": "-175",
+      "trueOdds": 1.57142858
+    }
+  },
+  {
+    "name": "Michael Busch",
     "line": 1.5,
     "over": {
       "american": "+125",
@@ -1918,87 +1890,45 @@
     }
   },
   {
-    "name": "Dansby Swanson",
-    "line": 1.5,
-    "over": {
-      "american": "+135",
-      "trueOdds": 2.35
-    },
-    "matchup": "CHI Cubs @ STL Cardinals",
-    "gameTime": "2025-06-24T23:45:00.0000000Z",
-    "under": {
-      "american": "-190",
-      "trueOdds": 1.52631579
-    }
-  },
-  {
-    "name": "Michael Busch",
+    "name": "Jose Altuve",
     "line": 1.5,
     "over": {
       "american": "+130",
       "trueOdds": 2.3
     },
-    "matchup": "CHI Cubs @ STL Cardinals",
-    "gameTime": "2025-06-24T23:45:00.0000000Z",
+    "matchup": "PHI Phillies @ HOU Astros",
+    "gameTime": "2025-06-25T00:10:00.0000000Z",
     "under": {
       "american": "-185",
       "trueOdds": 1.54054055
     }
   },
   {
-    "name": "Carson Kelly",
-    "line": 1.5,
-    "over": {
-      "american": "+145",
-      "trueOdds": 2.45
-    },
-    "matchup": "CHI Cubs @ STL Cardinals",
-    "gameTime": "2025-06-24T23:45:00.0000000Z",
-    "under": {
-      "american": "-205",
-      "trueOdds": 1.48780488
-    }
-  },
-  {
-    "name": "Jose Altuve",
-    "line": 1.5,
-    "over": {
-      "american": "+135",
-      "trueOdds": 2.35
-    },
-    "matchup": "PHI Phillies @ HOU Astros",
-    "gameTime": "2025-06-25T00:10:00.0000000Z",
-    "under": {
-      "american": "-195",
-      "trueOdds": 1.51282052
-    }
-  },
-  {
     "name": "Yainer Diaz",
     "line": 1.5,
     "over": {
-      "american": "+115",
-      "trueOdds": 2.15
+      "american": "+125",
+      "trueOdds": 2.25
     },
     "matchup": "PHI Phillies @ HOU Astros",
     "gameTime": "2025-06-25T00:10:00.0000000Z",
     "under": {
-      "american": "-165",
-      "trueOdds": 1.60606061
+      "american": "-175",
+      "trueOdds": 1.57142858
     }
   },
   {
     "name": "Jeremy Pena",
     "line": 1.5,
     "over": {
-      "american": "+115",
-      "trueOdds": 2.15
+      "american": "+110",
+      "trueOdds": 2.1
     },
     "matchup": "PHI Phillies @ HOU Astros",
     "gameTime": "2025-06-25T00:10:00.0000000Z",
     "under": {
-      "american": "-160",
-      "trueOdds": 1.625
+      "american": "-155",
+      "trueOdds": 1.6451613
     }
   },
   {
@@ -2016,17 +1946,31 @@
     }
   },
   {
-    "name": "Alec Bohm",
+    "name": "Cam Smith",
     "line": 1.5,
     "over": {
-      "american": "+105",
-      "trueOdds": 2.05
+      "american": "+135",
+      "trueOdds": 2.35
     },
     "matchup": "PHI Phillies @ HOU Astros",
     "gameTime": "2025-06-25T00:10:00.0000000Z",
     "under": {
-      "american": "-150",
-      "trueOdds": 1.66666667
+      "american": "-190",
+      "trueOdds": 1.52631579
+    }
+  },
+  {
+    "name": "Alec Bohm",
+    "line": 1.5,
+    "over": {
+      "american": "+110",
+      "trueOdds": 2.1
+    },
+    "matchup": "PHI Phillies @ HOU Astros",
+    "gameTime": "2025-06-25T00:10:00.0000000Z",
+    "under": {
+      "american": "-155",
+      "trueOdds": 1.6451613
     }
   },
   {
@@ -2044,35 +1988,147 @@
     }
   },
   {
-    "name": "Max Muncy (LAD)",
+    "name": "Jake Meyers",
     "line": 1.5,
     "over": {
-      "american": "-130",
-      "trueOdds": 1.76923077
+      "american": "+135",
+      "trueOdds": 2.35
+    },
+    "matchup": "PHI Phillies @ HOU Astros",
+    "gameTime": "2025-06-25T00:10:00.0000000Z",
+    "under": {
+      "american": "-190",
+      "trueOdds": 1.52631579
+    }
+  },
+  {
+    "name": "Brenton Doyle",
+    "line": 1.5,
+    "over": {
+      "american": "+125",
+      "trueOdds": 2.25
     },
     "matchup": "LA Dodgers @ COL Rockies",
     "gameTime": "2025-06-25T00:40:00.0000000Z",
     "under": {
-      "american": "-110",
-      "trueOdds": 1.90909091
+      "american": "-180",
+      "trueOdds": 1.55555556
+    }
+  },
+  {
+    "name": "Hunter Goodman",
+    "line": 1.5,
+    "over": {
+      "american": "-115",
+      "trueOdds": 1.86956522
+    },
+    "matchup": "LA Dodgers @ COL Rockies",
+    "gameTime": "2025-06-25T00:40:00.0000000Z",
+    "under": {
+      "american": "-120",
+      "trueOdds": 1.83333334
+    }
+  },
+  {
+    "name": "Max Muncy (LAD)",
+    "line": 1.5,
+    "over": {
+      "american": "-125",
+      "trueOdds": 1.8
+    },
+    "matchup": "LA Dodgers @ COL Rockies",
+    "gameTime": "2025-06-25T00:40:00.0000000Z",
+    "under": {
+      "american": "-115",
+      "trueOdds": 1.86956522
+    }
+  },
+  {
+    "name": "Jordan Beck",
+    "line": 1.5,
+    "over": {
+      "american": "+100",
+      "trueOdds": 2
+    },
+    "matchup": "LA Dodgers @ COL Rockies",
+    "gameTime": "2025-06-25T00:40:00.0000000Z",
+    "under": {
+      "american": "-140",
+      "trueOdds": 1.71428572
     }
   },
   {
     "name": "Teoscar Hernandez",
     "line": 1.5,
     "over": {
-      "american": "-150",
-      "trueOdds": 1.66666667
+      "american": "-135",
+      "trueOdds": 1.74074075
     },
     "matchup": "LA Dodgers @ COL Rockies",
     "gameTime": "2025-06-25T00:40:00.0000000Z",
     "under": {
-      "american": "+105",
-      "trueOdds": 2.05
+      "american": "-105",
+      "trueOdds": 1.95238096
     }
   },
   {
     "name": "Freddie Freeman",
+    "line": 1.5,
+    "over": {
+      "american": "-165",
+      "trueOdds": 1.60606061
+    },
+    "matchup": "LA Dodgers @ COL Rockies",
+    "gameTime": "2025-06-25T00:40:00.0000000Z",
+    "under": {
+      "american": "+120",
+      "trueOdds": 2.2
+    }
+  },
+  {
+    "name": "Tommy Edman",
+    "line": 1.5,
+    "over": {
+      "american": "-105",
+      "trueOdds": 1.95238096
+    },
+    "matchup": "LA Dodgers @ COL Rockies",
+    "gameTime": "2025-06-25T00:40:00.0000000Z",
+    "under": {
+      "american": "-135",
+      "trueOdds": 1.74074075
+    }
+  },
+  {
+    "name": "Andy Pages",
+    "line": 1.5,
+    "over": {
+      "american": "-165",
+      "trueOdds": 1.60606061
+    },
+    "matchup": "LA Dodgers @ COL Rockies",
+    "gameTime": "2025-06-25T00:40:00.0000000Z",
+    "under": {
+      "american": "+115",
+      "trueOdds": 2.15
+    }
+  },
+  {
+    "name": "Tyler Freeman",
+    "line": 1.5,
+    "over": {
+      "american": "+100",
+      "trueOdds": 2
+    },
+    "matchup": "LA Dodgers @ COL Rockies",
+    "gameTime": "2025-06-25T00:40:00.0000000Z",
+    "under": {
+      "american": "-140",
+      "trueOdds": 1.71428572
+    }
+  },
+  {
+    "name": "Will Smith (LAD)",
     "line": 1.5,
     "over": {
       "american": "-140",
@@ -2086,81 +2142,39 @@
     }
   },
   {
-    "name": "Tommy Edman",
-    "line": 1.5,
-    "over": {
-      "american": "-110",
-      "trueOdds": 1.90909091
-    },
-    "matchup": "LA Dodgers @ COL Rockies",
-    "gameTime": "2025-06-25T00:40:00.0000000Z",
-    "under": {
-      "american": "-130",
-      "trueOdds": 1.76923077
-    }
-  },
-  {
-    "name": "Andy Pages",
-    "line": 1.5,
-    "over": {
-      "american": "-135",
-      "trueOdds": 1.74074075
-    },
-    "matchup": "LA Dodgers @ COL Rockies",
-    "gameTime": "2025-06-25T00:40:00.0000000Z",
-    "under": {
-      "american": "-105",
-      "trueOdds": 1.95238096
-    }
-  },
-  {
-    "name": "Mookie Betts",
-    "line": 1.5,
-    "over": {
-      "american": "-120",
-      "trueOdds": 1.83333334
-    },
-    "matchup": "LA Dodgers @ COL Rockies",
-    "gameTime": "2025-06-25T00:40:00.0000000Z",
-    "under": {
-      "american": "-115",
-      "trueOdds": 1.86956522
-    }
-  },
-  {
-    "name": "Will Smith (LAD)",
-    "line": 1.5,
-    "over": {
-      "american": "-135",
-      "trueOdds": 1.74074075
-    },
-    "matchup": "LA Dodgers @ COL Rockies",
-    "gameTime": "2025-06-25T00:40:00.0000000Z",
-    "under": {
-      "american": "-105",
-      "trueOdds": 1.95238096
-    }
-  },
-  {
     "name": "Michael Conforto",
     "line": 1.5,
     "over": {
-      "american": "-110",
-      "trueOdds": 1.90909091
+      "american": "-105",
+      "trueOdds": 1.95238096
     },
     "matchup": "LA Dodgers @ COL Rockies",
     "gameTime": "2025-06-25T00:40:00.0000000Z",
     "under": {
-      "american": "-130",
-      "trueOdds": 1.76923077
+      "american": "-135",
+      "trueOdds": 1.74074075
+    }
+  },
+  {
+    "name": "Thairo Estrada",
+    "line": 1.5,
+    "over": {
+      "american": "+115",
+      "trueOdds": 2.15
+    },
+    "matchup": "LA Dodgers @ COL Rockies",
+    "gameTime": "2025-06-25T00:40:00.0000000Z",
+    "under": {
+      "american": "-165",
+      "trueOdds": 1.60606061
     }
   },
   {
     "name": "Zach Neto",
     "line": 1.5,
     "over": {
-      "american": "+105",
-      "trueOdds": 2.05
+      "american": "+110",
+      "trueOdds": 2.1
     },
     "matchup": "BOS Red Sox @ LA Angels",
     "gameTime": "2025-06-25T01:38:00.0000000Z",
@@ -2187,8 +2201,8 @@
     "name": "Romy Gonzalez",
     "line": 1.5,
     "over": {
-      "american": "+105",
-      "trueOdds": 2.05
+      "american": "+110",
+      "trueOdds": 2.1
     },
     "matchup": "BOS Red Sox @ LA Angels",
     "gameTime": "2025-06-25T01:38:00.0000000Z",
@@ -2199,34 +2213,6 @@
   },
   {
     "name": "Ceddanne Rafaela",
-    "line": 1.5,
-    "over": {
-      "american": "+130",
-      "trueOdds": 2.3
-    },
-    "matchup": "BOS Red Sox @ LA Angels",
-    "gameTime": "2025-06-25T01:38:00.0000000Z",
-    "under": {
-      "american": "-185",
-      "trueOdds": 1.54054055
-    }
-  },
-  {
-    "name": "Jarren Duran",
-    "line": 1.5,
-    "over": {
-      "american": "+100",
-      "trueOdds": 2
-    },
-    "matchup": "BOS Red Sox @ LA Angels",
-    "gameTime": "2025-06-25T01:38:00.0000000Z",
-    "under": {
-      "american": "-145",
-      "trueOdds": 1.68965518
-    }
-  },
-  {
-    "name": "Carlos Narvaez",
     "line": 1.5,
     "over": {
       "american": "+125",
@@ -2240,17 +2226,45 @@
     }
   },
   {
-    "name": "Roman Anthony",
+    "name": "Jarren Duran",
     "line": 1.5,
     "over": {
-      "american": "+135",
-      "trueOdds": 2.35
+      "american": "+100",
+      "trueOdds": 2
     },
     "matchup": "BOS Red Sox @ LA Angels",
     "gameTime": "2025-06-25T01:38:00.0000000Z",
     "under": {
-      "american": "-190",
-      "trueOdds": 1.52631579
+      "american": "-140",
+      "trueOdds": 1.71428572
+    }
+  },
+  {
+    "name": "Carlos Narvaez",
+    "line": 1.5,
+    "over": {
+      "american": "+130",
+      "trueOdds": 2.3
+    },
+    "matchup": "BOS Red Sox @ LA Angels",
+    "gameTime": "2025-06-25T01:38:00.0000000Z",
+    "under": {
+      "american": "-185",
+      "trueOdds": 1.54054055
+    }
+  },
+  {
+    "name": "Roman Anthony",
+    "line": 1.5,
+    "over": {
+      "american": "+130",
+      "trueOdds": 2.3
+    },
+    "matchup": "BOS Red Sox @ LA Angels",
+    "gameTime": "2025-06-25T01:38:00.0000000Z",
+    "under": {
+      "american": "-185",
+      "trueOdds": 1.54054055
     }
   },
   {
@@ -2271,14 +2285,14 @@
     "name": "Luis Garcia (WAS)",
     "line": 1.5,
     "over": {
-      "american": "+125",
-      "trueOdds": 2.25
+      "american": "+120",
+      "trueOdds": 2.2
     },
     "matchup": "WAS Nationals @ SD Padres",
     "gameTime": "2025-06-25T01:40:00.0000000Z",
     "under": {
-      "american": "-180",
-      "trueOdds": 1.55555556
+      "american": "-170",
+      "trueOdds": 1.5882353
     }
   },
   {
@@ -2299,14 +2313,14 @@
     "name": "Manny Machado",
     "line": 1.5,
     "over": {
-      "american": "-115",
-      "trueOdds": 1.86956522
+      "american": "-110",
+      "trueOdds": 1.90909091
     },
     "matchup": "WAS Nationals @ SD Padres",
     "gameTime": "2025-06-25T01:40:00.0000000Z",
     "under": {
-      "american": "-125",
-      "trueOdds": 1.8
+      "american": "-130",
+      "trueOdds": 1.76923077
     }
   },
   {
@@ -2341,22 +2355,22 @@
     "name": "CJ Abrams",
     "line": 1.5,
     "over": {
-      "american": "+125",
-      "trueOdds": 2.25
+      "american": "+120",
+      "trueOdds": 2.2
     },
     "matchup": "WAS Nationals @ SD Padres",
     "gameTime": "2025-06-25T01:40:00.0000000Z",
     "under": {
-      "american": "-175",
-      "trueOdds": 1.57142858
+      "american": "-170",
+      "trueOdds": 1.5882353
     }
   },
   {
     "name": "Jackson Merrill",
     "line": 1.5,
     "over": {
-      "american": "-140",
-      "trueOdds": 1.71428572
+      "american": "-145",
+      "trueOdds": 1.68965518
     },
     "matchup": "WAS Nationals @ SD Padres",
     "gameTime": "2025-06-25T01:40:00.0000000Z",
@@ -2383,28 +2397,28 @@
     "name": "Heliot Ramos",
     "line": 1.5,
     "over": {
-      "american": "+115",
-      "trueOdds": 2.15
+      "american": "+105",
+      "trueOdds": 2.05
     },
     "matchup": "MIA Marlins @ SF Giants",
     "gameTime": "2025-06-25T01:45:00.0000000Z",
     "under": {
-      "american": "-160",
-      "trueOdds": 1.625
+      "american": "-150",
+      "trueOdds": 1.66666667
     }
   },
   {
     "name": "Mike Yastrzemski",
     "line": 1.5,
     "over": {
-      "american": "+125",
-      "trueOdds": 2.25
+      "american": "+120",
+      "trueOdds": 2.2
     },
     "matchup": "MIA Marlins @ SF Giants",
     "gameTime": "2025-06-25T01:45:00.0000000Z",
     "under": {
-      "american": "-180",
-      "trueOdds": 1.55555556
+      "american": "-170",
+      "trueOdds": 1.5882353
     }
   },
   {
@@ -2425,14 +2439,14 @@
     "name": "Rafael Devers",
     "line": 1.5,
     "over": {
-      "american": "+105",
-      "trueOdds": 2.05
+      "american": "-115",
+      "trueOdds": 1.86956522
     },
     "matchup": "MIA Marlins @ SF Giants",
     "gameTime": "2025-06-25T01:45:00.0000000Z",
     "under": {
-      "american": "-145",
-      "trueOdds": 1.68965518
+      "american": "-125",
+      "trueOdds": 1.8
     }
   },
   {
@@ -2453,14 +2467,14 @@
     "name": "Willy Adames",
     "line": 1.5,
     "over": {
-      "american": "+125",
-      "trueOdds": 2.25
+      "american": "+135",
+      "trueOdds": 2.35
     },
     "matchup": "MIA Marlins @ SF Giants",
     "gameTime": "2025-06-25T01:45:00.0000000Z",
     "under": {
-      "american": "-175",
-      "trueOdds": 1.57142858
+      "american": "-190",
+      "trueOdds": 1.52631579
     }
   },
   {
@@ -2473,26 +2487,12 @@
     "matchup": "MIA Marlins @ SF Giants",
     "gameTime": "2025-06-25T01:45:00.0000000Z",
     "under": {
-      "american": "-165",
-      "trueOdds": 1.60606061
+      "american": "-160",
+      "trueOdds": 1.625
     }
   },
   {
     "name": "Wilmer Flores (SF)",
-    "line": 1.5,
-    "over": {
-      "american": "+120",
-      "trueOdds": 2.2
-    },
-    "matchup": "MIA Marlins @ SF Giants",
-    "gameTime": "2025-06-25T01:45:00.0000000Z",
-    "under": {
-      "american": "-170",
-      "trueOdds": 1.5882353
-    }
-  },
-  {
-    "name": "Jung Hoo Lee",
     "line": 1.5,
     "over": {
       "american": "+130",
@@ -2506,17 +2506,59 @@
     }
   },
   {
-    "name": "Shohei Ohtani",
-    "line": 3.5,
+    "name": "Jung Hoo Lee",
+    "line": 1.5,
     "over": {
-      "american": "-110",
-      "trueOdds": 1.90909091
+      "american": "+120",
+      "trueOdds": 2.2
+    },
+    "matchup": "MIA Marlins @ SF Giants",
+    "gameTime": "2025-06-25T01:45:00.0000000Z",
+    "under": {
+      "american": "-170",
+      "trueOdds": 1.5882353
+    }
+  },
+  {
+    "name": "Casey Schmitt",
+    "line": 1.5,
+    "over": {
+      "american": "+140",
+      "trueOdds": 2.4
+    },
+    "matchup": "MIA Marlins @ SF Giants",
+    "gameTime": "2025-06-25T01:45:00.0000000Z",
+    "under": {
+      "american": "-200",
+      "trueOdds": 1.5
+    }
+  },
+  {
+    "name": "Mookie Betts",
+    "line": 2.5,
+    "over": {
+      "american": "+115",
+      "trueOdds": 2.15
     },
     "matchup": "LA Dodgers @ COL Rockies",
     "gameTime": "2025-06-25T00:40:00.0000000Z",
     "under": {
-      "american": "-130",
-      "trueOdds": 1.76923077
+      "american": "-165",
+      "trueOdds": 1.60606061
+    }
+  },
+  {
+    "name": "Shohei Ohtani",
+    "line": 2.5,
+    "over": {
+      "american": "-125",
+      "trueOdds": 1.8
+    },
+    "matchup": "LA Dodgers @ COL Rockies",
+    "gameTime": "2025-06-25T00:40:00.0000000Z",
+    "under": {
+      "american": "-110",
+      "trueOdds": 1.90909091
     }
   }
 ]

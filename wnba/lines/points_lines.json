@@ -15,30 +15,16 @@
   },
   {
     "name": "Angel Reese",
-    "line": 10.5,
+    "line": 11.5,
     "over": {
-      "american": "-140",
-      "trueOdds": 1.71428572
+      "american": "-125",
+      "trueOdds": 1.8
     },
     "matchup": "LA Sparks @ CHI Sky",
     "gameTime": "2025-06-25T00:00:00.0000000Z",
     "under": {
-      "american": "+110",
-      "trueOdds": 2.1
-    }
-  },
-  {
-    "name": "Sonia Citron",
-    "line": 12.5,
-    "over": {
-      "american": "-115",
-      "trueOdds": 1.86956522
-    },
-    "matchup": "MIN Lynx @ WAS Mystics",
-    "gameTime": "2025-06-25T00:00:00.0000000Z",
-    "under": {
-      "american": "-115",
-      "trueOdds": 1.86956522
+      "american": "-105",
+      "trueOdds": 1.95238096
     }
   },
   {
@@ -56,21 +42,21 @@
     }
   },
   {
-    "name": "Shakira Austin",
+    "name": "Sonia Citron",
     "line": 13.5,
     "over": {
-      "american": "-115",
-      "trueOdds": 1.86956522
+      "american": "-120",
+      "trueOdds": 1.83333334
     },
     "matchup": "MIN Lynx @ WAS Mystics",
     "gameTime": "2025-06-25T00:00:00.0000000Z",
     "under": {
-      "american": "-115",
-      "trueOdds": 1.86956522
+      "american": "-110",
+      "trueOdds": 1.90909091
     }
   },
   {
-    "name": "Rickea Jackson",
+    "name": "Ariel Atkins",
     "line": 13.5,
     "over": {
       "american": "-135",
@@ -84,45 +70,45 @@
     }
   },
   {
-    "name": "Ariel Atkins",
-    "line": 13.5,
-    "over": {
-      "american": "-125",
-      "trueOdds": 1.8
-    },
-    "matchup": "LA Sparks @ CHI Sky",
-    "gameTime": "2025-06-25T00:00:00.0000000Z",
-    "under": {
-      "american": "-105",
-      "trueOdds": 1.95238096
-    }
-  },
-  {
     "name": "Aliyah Boston",
     "line": 13.5,
     "over": {
-      "american": "-130",
-      "trueOdds": 1.76923077
+      "american": "-110",
+      "trueOdds": 1.90909091
     },
     "matchup": "IND Fever @ SEA Storm",
     "gameTime": "2025-06-25T02:00:00.0000000Z",
     "under": {
-      "american": "+100",
-      "trueOdds": 2
+      "american": "-120",
+      "trueOdds": 1.83333334
     }
   },
   {
     "name": "Gabby Williams",
     "line": 13.5,
     "over": {
-      "american": "-140",
-      "trueOdds": 1.71428572
+      "american": "-120",
+      "trueOdds": 1.83333334
     },
     "matchup": "IND Fever @ SEA Storm",
     "gameTime": "2025-06-25T02:00:00.0000000Z",
     "under": {
-      "american": "+110",
-      "trueOdds": 2.1
+      "american": "-110",
+      "trueOdds": 1.90909091
+    }
+  },
+  {
+    "name": "Shakira Austin",
+    "line": 14.5,
+    "over": {
+      "american": "-110",
+      "trueOdds": 1.90909091
+    },
+    "matchup": "MIN Lynx @ WAS Mystics",
+    "gameTime": "2025-06-25T00:00:00.0000000Z",
+    "under": {
+      "american": "-120",
+      "trueOdds": 1.83333334
     }
   },
   {
@@ -137,6 +123,20 @@
     "under": {
       "american": "+100",
       "trueOdds": 2
+    }
+  },
+  {
+    "name": "Rickea Jackson",
+    "line": 14.5,
+    "over": {
+      "american": "+100",
+      "trueOdds": 2
+    },
+    "matchup": "LA Sparks @ CHI Sky",
+    "gameTime": "2025-06-25T00:00:00.0000000Z",
+    "under": {
+      "american": "-130",
+      "trueOdds": 1.76923077
     }
   },
   {
@@ -196,6 +196,20 @@
     }
   },
   {
+    "name": "Brittney Sykes",
+    "line": 17.5,
+    "over": {
+      "american": "+105",
+      "trueOdds": 2.05
+    },
+    "matchup": "MIN Lynx @ WAS Mystics",
+    "gameTime": "2025-06-25T00:00:00.0000000Z",
+    "under": {
+      "american": "-135",
+      "trueOdds": 1.74074075
+    }
+  },
+  {
     "name": "Rhyne Howard",
     "line": 17.5,
     "over": {
@@ -224,20 +238,6 @@
     }
   },
   {
-    "name": "Brittney Sykes",
-    "line": 18.5,
-    "over": {
-      "american": "+105",
-      "trueOdds": 2.05
-    },
-    "matchup": "MIN Lynx @ WAS Mystics",
-    "gameTime": "2025-06-25T00:00:00.0000000Z",
-    "under": {
-      "american": "-135",
-      "trueOdds": 1.74074075
-    }
-  },
-  {
     "name": "Allisha Gray",
     "line": 18.5,
     "over": {
@@ -255,14 +255,14 @@
     "name": "Paige Bueckers",
     "line": 18.5,
     "over": {
-      "american": "-120",
-      "trueOdds": 1.83333334
+      "american": "-115",
+      "trueOdds": 1.86956522
     },
     "matchup": "ATL Dream @ DAL Wings",
     "gameTime": "2025-06-25T00:00:00.0000000Z",
     "under": {
-      "american": "-110",
-      "trueOdds": 1.90909091
+      "american": "-115",
+      "trueOdds": 1.86956522
     }
   },
   {
@@ -283,25 +283,11 @@
     "name": "Caitlin Clark",
     "line": 19.5,
     "over": {
-      "american": "-115",
-      "trueOdds": 1.86956522
-    },
-    "matchup": "IND Fever @ MIN Lynx",
-    "gameTime": "2025-07-02T00:00:00.0000000Z",
-    "under": {
-      "american": "-115",
-      "trueOdds": 1.86956522
-    }
-  },
-  {
-    "name": "Napheesa Collier",
-    "line": 21.5,
-    "over": {
       "american": "-125",
       "trueOdds": 1.8
     },
-    "matchup": "IND Fever @ MIN Lynx",
-    "gameTime": "2025-07-02T00:00:00.0000000Z",
+    "matchup": "IND Fever @ SEA Storm",
+    "gameTime": "2025-06-25T02:00:00.0000000Z",
     "under": {
       "american": "-105",
       "trueOdds": 1.95238096
