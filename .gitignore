@@ -7,11 +7,97 @@ __pycache__/
 *$py.class
 *.so
 .Python
-env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+.venv/
 venv/
+env/
 ENV/
 env.bak/
 venv.bak/
+pyvenv.cfg
+
+# Python site-packages and installations
+site-packages/
+**/site-packages/
+pip/
+pip3/
+pip3.12/
+python/
+python3/
+python3.12/
+tqdm/
+playwright/
+pyppeteer-install/
+greenlet3/
+requests_html/
+socks.py
+sockshandler.py
+parse.py
+appdirs.py
+websockets/
+wsproto/
+trio/
+sniffio/
+sortedcontainers/
+outcome/
+h11/
+cffi/
+attrs/
+typing_extensions/
+packaging/
+idna/
+certifi/
+charset_normalizer/
+urllib3/
+requests/
+six/
+python_dateutil/
+pytz/
+tzdata/
+numpy/
+pandas/
+beautifulsoup4/
+soupsieve/
+lxml/
+cssselect/
+pyquery/
+fake_useragent/
+w3lib/
+bs4/
+webdriver_manager/
+selenium/
+trio_websocket/
+websocket_client/
+blinker/
+click/
+colorama/
+flask/
+gunicorn/
+itsdangerous/
+jinja2/
+markupsafe/
+werkzeug/
+python_dotenv/
+pysocks/
+pycparser/
 
 # IDE
 .vscode/
@@ -29,7 +115,69 @@ cron.log
 
 # Temporary files
 *.tmp
+*.temp
 
-# Data folders
+# Data folders and generated files
 data_p6/
-**/data/ 
+**/data/
+**/data_p6/
+selections/
+options/
+lines/
+*.json.bak
+*.json.tmp
+
+# Test files and artifacts
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# pyenv
+.python-version
+
+# pipenv
+Pipfile.lock
+
+# Poetry
+poetry.lock
+
+# Celery
+celerybeat-schedule
+celerybeat.pid
+
+# SageMath parsed files
+*.sage.py
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# Rope project settings
+.ropeproject
+
+# mkdocs documentation
+/site
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre type checker
+.pyre/
+
+# pytype static type analyzer
+.pytype/
+
+# Cython debug symbols
+cython_debug/ 
